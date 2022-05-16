@@ -4,13 +4,7 @@
   "version": "1.0",
   "manifest_version": 3,
   "permissions": [
-    "storage",
-    "activeTab",
-    "scripting",
     "declarativeNetRequest"
-  ],
-  "host_permissions": [
-    "*://*.meneame.net/"
   ],
   "declarative_net_request": {
     "rule_resources": [
