@@ -1,6 +1,6 @@
 {
-  "name": "Meneame Blocker",
-  "description": "Blocks meneame.net on your browser",
+  "name": "News Blocker",
+  "description": "Blocks news websites on your browser",
   "version": "1.0",
   "manifest_version": 3,
   "permissions": [
@@ -9,12 +9,19 @@
     "scripting",
     "declarativeNetRequest"
   ],
-  "host_permissions": ["*://*.meneame.net/"],
+  "host_permissions": [
+    "*://*.meneame.net/"
+  ],
   "declarative_net_request": {
-    "rule_resources": [{
-      "id": "ruleset_1",
-      "enabled": true,
-      "path": "rules.json"
-    }]
+    "rule_resources": [
+      {
+        "id": "ruleset_1",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  },
+  "icons": {
+    "16": "/assets/icon.png"
   }
 }
