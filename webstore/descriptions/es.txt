@@ -3,3 +3,7 @@ Esta extensión no es configurable. ¿Quieres que lo sea? Envía una feature req
 
 Sitios bloqueados:
 - meneame.net
+
+Single purpose:
+
+Bloquea páginas web de noticias
