@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "bestzip build.zip src/"
+    "build": "bestzip dist/build.zip src/"
   },
   "repository": {
     "type": "git",
