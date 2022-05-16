@@ -1,5 +1,0 @@
-When reading the news constantly affects you negatively, block them!
-This extension is not configurable. Want it to be? Send a feature request.
-
-Blocked news sites:
-- meneame.net
