@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "licenses": ["CC-BY-4.0"],
   "scripts": {
     "build": "bestzip dist/build.zip src/"
   },
