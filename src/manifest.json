@@ -1,0 +1,20 @@
+{
+  "name": "Meneame Blocker",
+  "description": "Blocks meneame.net on your browser",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "declarativeNetRequest"
+  ],
+  "host_permissions": ["*://*.meneame.net/"],
+  "declarative_net_request": {
+    "rule_resources": [{
+      "id": "ruleset_1",
+      "enabled": true,
+      "path": "rules.json"
+    }]
+  }
+}

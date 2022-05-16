@@ -1,0 +1,23 @@
+{
+  "name": "focus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "bestzip build.zip src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orestes/extension-meneame-blocker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orestes/extension-meneame-blocker/issues"
+  },
+  "homepage": "https://github.com/orestes/extension-meneame-blocker#readme",
+  "devDependencies": {
+    "bestzip": "^2.2.1"
+  }
+}
