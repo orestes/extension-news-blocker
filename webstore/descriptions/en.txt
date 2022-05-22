@@ -3,9 +3,7 @@ Description:
 When reading the news constantly affects you negatively, block them!
 This extension is not configurable. Want it to be? Send a feature request.
 
-Blocked news sites:
-- meneame.net
-
+List of blocked news sites: https://github.com/orestes/extension-news-blocker#what-websites-does-it-block
 
 Single purpose:
 
@@ -13,4 +11,4 @@ Blocks news sites URLs
 
 declarativeNetRequest justification:
 
-Needed to block news sites. List is open source https://github.com/orestes/extension-news-blocker
+Needed to block news sites. Both the extension and the list of websites is open source https://github.com/orestes/extension-news-blocker

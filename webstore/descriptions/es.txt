@@ -1,8 +1,7 @@
 Cuando leer las noticias constantemente te afecta, ¡Bloquéalas!
 Esta extensión no es configurable. ¿Quieres que lo sea? Envía una feature request.
 
-Sitios bloqueados:
-- meneame.net
+Lista de sitios web bloqueados: https://github.com/orestes/extension-news-blocker#what-websites-does-it-block
 
 Single purpose:
 

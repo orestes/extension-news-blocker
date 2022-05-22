@@ -6,6 +6,12 @@ A Chrome extension to block news websites
 
 Install [News Blocker on the Chrome Web Store](https://chrome.google.com/webstore/detail/news-blocker/cgpkdjfgbnokjojgehhjmmoijngneaih) 
 
+# What websites does it block?
+
+- meneame.net
+- tweetdeck.twitter.com
+
+[Source](src/rules.json)
 
 ## License
 
