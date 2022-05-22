@@ -11,5 +11,18 @@
         "main_frame"
       ]
     }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "tweetdeck.twitter.com",
+      "resourceTypes": [
+        "main_frame"
+      ]
+    }
   }
 ]
