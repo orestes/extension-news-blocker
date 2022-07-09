@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/orestes/extension-meneame-blocker.git"
+    "url": "git+https://github.com/orestes/extension-news-blocker.git"
   },
   "keywords": [],
   "author": "",
   "bugs": {
-    "url": "https://github.com/orestes/extension-meneame-blocker/issues"
+    "url": "https://github.com/orestes/extension-news-blocker/issues"
   },
-  "homepage": "https://github.com/orestes/extension-meneame-blocker#readme",
+  "homepage": "https://github.com/orestes/extension-news-blocker#readme",
   "devDependencies": {
     "bestzip": "^2.2.1"
   }
