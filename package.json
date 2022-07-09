@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "licenses": ["CC-BY-4.0"],
+  "license": "CC-BY-4.0",
   "scripts": {
     "build": "bestzip dist/build.zip src/"
   },
@@ -13,7 +13,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/orestes/extension-meneame-blocker/issues"
   },
